@@ -11,4 +11,4 @@ The flag options are as follows:
 `python simplebrute.py --url urls.txt --list apache.txt --output output.txt`  
 
 **Example Output:**  
-![Example](example.png)  
+![Example](example.png)    
