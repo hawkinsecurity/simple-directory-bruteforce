@@ -1,6 +1,6 @@
 # simple-directory-bruteforce
 
-A simple bruteforce script which takes a wordlist and list of urls as input.    
+A simple directory bruteforce script which takes a wordlist and list of urls as input. The output file from this script can then be imported into burp's sitemap with this extension: https://github.com/SmeegeSec/Burp-Importer
 
 The flag options are as follows:  
 -u , --url = Path to url input file (REQUIRED)  
